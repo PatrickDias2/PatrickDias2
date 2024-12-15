@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Patrick Dias da Silva
-- 👀 I am currently a student of software analysis, and development and will be a developer one day.
+- 👀 I am currently a student of software analysis and development, and will be a developer one day.
 - 🌱 I’m currently learning 
 
 
