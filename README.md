@@ -1,13 +1,12 @@
 <div align="center">
-  <a href="https://github.com/PatrickDias2">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PatrickDias2&layout=compact&theme=dark&hide_title=true&langs_count=6&exclude_repo=github-readme-stats" />
-  </a>
-</div>
-
-<div align="center">
+  <!-- BANNER PERSONALIZADO: Saudação animada com tema de código (verde e preto) -->
   <h1>Olá, eu sou o Patrick Dias da Silva 👋</h1>
   <p>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=20B2AA&center=true&vCenter=true&width=430&lines=Futuro+Desenvolvedor;Apaixonado+por+código;Sempre+aprendendo+e+melhorando;" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=20B2AA&center=true&vCenter=true&width=490&lines=console.log('Futuro%20Desenvolvedor');;const%20devClub%20%3D%20'Aprendizado%20Contínuo';;Desenvolvendo%20soluções%20web;Apaixonado%20por%20código;" alt="Typing SVG Banner" />
+  </p>
+  <p>
+    <!-- Badge de status para um toque profissional -->
+    <img src="https://img.shields.io/badge/Status-Online-brightgreen?style=for-the-badge&logo=github&logoColor=white&labelColor=282C34" alt="Status Online">
   </p>
 </div>
 
@@ -68,42 +67,21 @@ Aqui você encontrará uma vitrine dos meus projetos. Cada um é um passo na min
   <img src="https://github-profile-trophy.vercel.app/?username=PatrickDias2&theme=dark_dimmed" alt="Troféus do GitHub do Patrick" />
 </div>
 
+<div align="center">
+  <!-- Top Languages foi movido para a seção de estatísticas -->
+  <a href="https://github.com/PatrickDias2">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PatrickDias2&layout=compact&theme=dark&hide_title=true&langs_count=6&exclude_repo=github-readme-stats" />
+  </a>
+</div>
+
 ---
 
 ### 🐍 Minhas Contribuições (GitHub Snake)
 
 <div align="center">
+  <!-- A imagem da cobrinha será gerada pela GitHub Action -->
   <img src="https://raw.githubusercontent.com/PatrickDias2/PatrickDias2/output/github-contribution-grid-snake.svg" alt="GitHub contribution grid snake animation" />
 </div>
-<!-- Para que a cobrinha apareça, você precisa configurar uma GitHub Action no seu repositório de perfil.
-     Crie um arquivo em `.github/workflows/snake.yml` com o seguinte conteúdo:
-
-name: Generate Snake
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v2
-      - uses: Platane/snk@v2
-        id: snake-gif
-        with:
-          github_user_name: PatrickDias2 # Substitua pelo seu usuário do GitHub
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake.gif
-            dist/github-contribution-grid-snake-dark.svg
-            dist/github-contribution-grid-snake-dark.gif
-      - uses: crazy-max/ghaction-github-pages@v2
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
--->
 
 ---
 
@@ -126,5 +104,5 @@ Estou sempre aberto a novas conexões e oportunidades. Sinta-se à vontade para 
 <p align="center">
   Feito com ❤️ por Patrick Dias da Silva
   <br>
-  <img src="https://img.shields.io/badge/Status-Online-brightgreen?style=flat-square" alt="Status Online">
+  <img src="https://img.shields.io/badge/clubHub-DevClub-green?style=flat-square" alt="clubHub DevClub">
 </p>
