@@ -2,11 +2,11 @@
   <!-- ANIMAÇÃO DE CÓDIGO APRIMORADA COMO BANNER PRINCIPAL -->
   <h1>Olá, eu sou o Patrick Dias da Silva 👋</h1>
   <p>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=20B2AA&center=true&vCenter=true&width=490&lines=0101010101010101010101010101010101010101;1010101010101010101010101010101010101010;console.log('Iniciando%20jornada%20dev...');;const%20futuro%20%3D%20'Programação';;console.log('Aprender%20é%20o%20caminho!');;0xDEADBEEF;0xFFFFFF;" alt="Typing SVG Banner de Código" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=20B2AA&center=true&vCenter=true&width=490&lines=0101010101010101010101010101010101010101;1010101010101010101010101010101010101010;console.log('Iniciando%20jornada%20dev...');;const%20futuro%20%3D%20'Programação';;console.log('Aprender%20é%20o%20caminho!');;0xDEADBEEF;0xFFFFFF;" />
   </p>
   <p>
     <!-- Badge de status para um toque profissional -->
-    <img src="https://img.shields.io/badge/Status-Online-brightgreen?style=for-the-badge&logo=github&logoColor=white&labelColor=282C34" alt="Status Online">
+    <img src="https://img.shields.io/badge/Status-Online-brightgreen?style=for-the-badge&logo=github&logoColor=white&labelColor=282C34" />
   </p>
 </div>
 
@@ -36,7 +36,7 @@ Aqui você encontrará uma vitrine dos meus projetos. Cada um é um passo na min
 <!-- Exemplo de como você pode adicionar um projeto. Copie e cole este bloco para cada novo projeto! -->
 #### 🌟 [Nome do Seu Projeto Aqui](https://link-para-o-seu-projeto.com)
 <p align="center">
-  <img src="https://via.placeholder.com/400x200?text=Imagem+do+Projeto" alt="Imagem do Projeto" />
+  <img src="https://via.placeholder.com/400x200?text=Imagem+do+Projeto" />
 </p>
 <p>
   Uma breve descrição do projeto, seus objetivos e as tecnologias utilizadas. Por exemplo: "Este projeto é uma aplicação web interativa desenvolvida com HTML, CSS e JavaScript, focando em uma experiência de usuário responsiva e dinâmica."
@@ -55,24 +55,19 @@ Aqui você encontrará uma vitrine dos meus projetos. Cada um é um passo na min
 ### 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PatrickDias2&show_icons=true&theme=dark&include_all_commits=true&count_private=true&line_height=20" alt="GitHub Stats do Patrick" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PatrickDias2&theme=dark&hide_border=true" alt="GitHub Streak do Patrick" />
+  <img src="https://github-readme-stats.vercel.app/api?username=PatrickDias2&show_icons=true&theme=dark&include_all_commits=true&count_private=true&line_height=20" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PatrickDias2&theme=dark&hide_border=true" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PatrickDias2&theme=react&hide_border=true" alt="Gráfico de Atividade do Patrick" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PatrickDias2&theme=react&hide_border=true" />
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=PatrickDias2&theme=dark_dimmed" alt="Troféus do GitHub do Patrick" />
+  <img src="https://github-profile-trophy.vercel.app/?username=PatrickDias2&theme=dark_dimmed" />
 </div>
 
-<div align="center">
-  <!-- Top Languages foi movido para a seção de estatísticas -->
-  <a href="https://github.com/PatrickDias2">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PatrickDias2&layout=compact&theme=dark&hide_title=true&langs_count=6&exclude_repo=github-readme-stats" />
-  </a>
-</div>
+<!-- REMOVIDO: O card de Top Languages foi removido conforme solicitado -->
 
 ---
 
@@ -82,10 +77,10 @@ Estou sempre aberto a novas conexões e oportunidades. Sinta-se à vontade para 
 
 <p align="center">
   <a href="https://www.linkedin.com/in/patrick-dias-da-silva-a4130a2a7" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://www.instagram.com/patrickdias_8/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   <!-- Adicione mais redes sociais aqui se tiver, ex: Email, Twitter, etc. -->
 </p>
@@ -95,5 +90,5 @@ Estou sempre aberto a novas conexões e oportunidades. Sinta-se à vontade para 
 <p align="center">
   Feito com ❤️ por Patrick Dias da Silva
   <br>
-  <img src="https://img.shields.io/badge/clubHub-DevClub-green?style=flat-square" alt="clubHub DevClub">
+  <img src="https://img.shields.io/badge/clubHub-DevClub-green?style=flat-square" />
 </p>
