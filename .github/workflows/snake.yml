@@ -6,10 +6,10 @@ on:
   workflow_dispatch: # Permite acionar a ação manualmente no GitHub.
 jobs:
   build:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-latest # Manter ubuntu-latest para se beneficiar das atualizações
     steps:
-      - uses: actions/checkout@v2
-      - uses: Platane/snk@v2
+      - uses: actions/checkout@v4 # Atualizado para v4
+      - uses: Platane/snk@v3 # Atualizado para v3
         id: snake-gif
         with:
           github_user_name: PatrickDias2 # Certifique-se de que este é o seu nome de usuário do GitHub!
@@ -18,7 +18,7 @@ jobs:
             dist/github-contribution-grid-snake.gif
             dist/github-contribution-grid-snake-dark.svg
             dist/github-contribution-grid-snake-dark.gif
-      - uses: crazy-max/ghaction-github-pages@v2
+      - uses: crazy-max/ghaction-github-pages@v3 # Atualizado para v3 para compatibilidade
         with:
           target_branch: output
           build_dir: dist
