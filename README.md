@@ -90,7 +90,7 @@ Aqui você encontrará uma vitrine dos meus projetos. Cada um é um passo na min
 Estou sempre aberto a novas conexões e oportunidades. Sinta-se à vontade para me contatar:
 
 <p align="center">
-  <a href="www.linkedin.com/in/patrick-dias-da-silva-a4130a2a7" target="_blank">
+  <a href="https://www.linkedin.com/in/patrick-dias-da-silva-a4130a2a7" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://www.instagram.com/patrickdias_8/" target="_blank">
