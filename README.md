@@ -76,15 +76,6 @@ Aqui você encontrará uma vitrine dos meus projetos. Cada um é um passo na min
 
 ---
 
-### 🐍 Minhas Contribuições (GitHub Snake)
-
-<div align="center">
-  <!-- A imagem da cobrinha será gerada pela GitHub Action -->
-  <img src="https://raw.githubusercontent.com/PatrickDias2/PatrickDias2/output/github-contribution-grid-snake.svg" alt="GitHub contribution grid snake animation" />
-</div>
-
----
-
 ### 🌐 Conecte-se Comigo!
 
 Estou sempre aberto a novas conexões e oportunidades. Sinta-se à vontade para me contatar:
