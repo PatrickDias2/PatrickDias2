@@ -55,19 +55,12 @@ Aqui você encontrará uma vitrine dos meus projetos. Cada um é um passo na min
 ### 📊 Estatísticas do GitHub
 
 <div align="center">
+  <!-- Mantivemos as estatísticas principais e a sequência (streak) -->
   <img src="https://github-readme-stats.vercel.app/api?username=PatrickDias2&show_icons=true&theme=dark&include_all_commits=true&count_private=true&line_height=20" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=PatrickDias2&theme=dark&hide_border=true" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PatrickDias2&theme=react&hide_border=true" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=PatrickDias2&theme=dark_dimmed" />
-</div>
-
-<!-- REMOVIDO: O card de Top Languages foi removido conforme solicitado -->
+<!-- REMOVIDO: Gráfico de Atividade e Troféus do GitHub foram removidos conforme solicitado -->
 
 ---
 
