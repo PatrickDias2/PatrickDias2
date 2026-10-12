@@ -31,24 +31,28 @@ Minha base sólida está em tecnologias web essenciais, e estou sempre expandind
 
 ### ✨ Meus Projetos
 
-Aqui você encontrará uma vitrine dos meus projetos. Cada um é um passo na minha jornada de aprendizado e desenvolvimento. Fique à vontade para explorar e dar feedback!
+Aqui você encontrará a vitrine dos meus projetos. Fique à vontade para explorar e dar feedback!
 
-<!-- Exemplo de como você pode adicionar um projeto. Copie e cole este bloco para cada novo projeto! -->
-#### 🌟 [Nome do Seu Projeto Aqui](https://link-para-o-seu-projeto.com)
-<p align="center">
-  <img src="https://via.placeholder.com/400x200?text=Imagem+do+Projeto" />
-</p>
-<p>
-  Uma breve descrição do projeto, seus objetivos e as tecnologias utilizadas. Por exemplo: "Este projeto é uma aplicação web interativa desenvolvida com HTML, CSS e JavaScript, focando em uma experiência de usuário responsiva e dinâmica."
-</p>
+<div align="center">
+  <!-- SE VOCÊ TIVER UM PROJETO PARA DESTACAR, DESCOMENTE E PREENCHA ESTE BLOCO! -->
+  <!--
+  #### 🌟 [Nome do Seu Projeto em Destaque](https://link-para-o-seu-projeto.com)
+  <p align="center">
+    <img src="https://via.placeholder.com/400x200?text=Imagem+do+Projeto" />
+  </p>
+  <p>
+    Uma breve descrição do seu projeto mais recente ou mais relevante. Por exemplo: "Este é o meu projeto mais recente, uma aplicação interativa que demonstra minhas habilidades em HTML, CSS e JavaScript, focando em [característica principal]."
+  </p>
+  - **Tecnologias**: HTML, CSS, JavaScript, [Outras Tecnologias]
+  - **Status**: Concluído / Em desenvolvimento
+  - **Repositório**: [Link para o repositório do projeto](https://github.com/PatrickDias2/nome-do-repositorio-do-projeto)
+  -->
 
-- **Tecnologias**: HTML, CSS, JavaScript
-
-- **Status**: Em desenvolvimento / Concluído
-
-- **Repositório**: [Link para o repositório](https://github.com/PatrickDias2/nome-do-repositorio-do-projeto)
-
-<!-- Adicione mais projetos aqui seguindo o mesmo formato -->
+  <!-- SE NÃO HOUVER PROJETOS PARA DESTACAR, A MENSAGEM "EM BREVE" APARECERÁ -->
+  <p>
+    <img src="https://img.shields.io/badge/Projetos-Em%20Breve...-black?style=for-the-badge&color=20B2AA&labelColor=000000" />
+  </p>
+</div>
 
 ---
 
@@ -59,8 +63,6 @@ Aqui você encontrará uma vitrine dos meus projetos. Cada um é um passo na min
   <img src="https://github-readme-stats.vercel.app/api?username=PatrickDias2&show_icons=true&theme=dark&include_all_commits=true&count_private=true&line_height=20" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=PatrickDias2&theme=dark&hide_border=true" />
 </div>
-
-<!-- REMOVIDO: Gráfico de Atividade e Troféus do GitHub foram removidos conforme solicitado -->
 
 ---
 
