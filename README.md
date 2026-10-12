@@ -1,11 +1,8 @@
 <div align="center">
-  <!-- NOVO BANNER PERSONALIZADO COM A IMAGEM QUE VOCÊ ESCOLHEU -->
-  <img src="https://assets.dio.me/LntV9NeBbZWlzoUcM4eZtXpC2pFbeNbC8MO0VYpe5dk/f:webp/q:80/L2FydGljbGVzL2NvdmVyLzc2MDdjOGRjLWE5MzktNGYyMS05YTdjLWIyMTRkNzIwZDcxMS5qcGc" alt="Banner de Programação" style="max-width:100%;">
-  
+  <!-- ANIMAÇÃO DE CÓDIGO APRIMORADA COMO BANNER PRINCIPAL -->
   <h1>Olá, eu sou o Patrick Dias da Silva 👋</h1>
   <p>
-    <!-- Mantivemos a animação de digitação aqui para a saudação, complementando o banner -->
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=20B2AA&center=true&vCenter=true&width=490&lines=console.log('Futuro%20Desenvolvedor');;const%20devClub%20%3D%20'Aprendizado%20Contínuo';;Desenvolvendo%20soluções%20web;Apaixonado%20por%20código;" alt="Typing SVG Banner" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=20B2AA&center=true&vCenter=true&width=490&lines=0101010101010101010101010101010101010101;1010101010101010101010101010101010101010;console.log('Iniciando%20jornada%20dev...');;const%20futuro%20%3D%20'Programação';;console.log('Aprender%20é%20o%20caminho!');;0xDEADBEEF;0xFFFFFF;" alt="Typing SVG Banner de Código" />
   </p>
   <p>
     <!-- Badge de status para um toque profissional -->
