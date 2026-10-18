@@ -85,5 +85,4 @@ Estou sempre aberto a novas conexões e oportunidades. Sinta-se à vontade para 
 <p align="center">
   Feito com ❤️ por Patrick Dias da Silva
   <br>
-  <img src="https://img.shields.io/badge/clubHub-DevClub-green?style=flat-square" />
 </p>
