@@ -23,7 +23,7 @@ Sou o Patrick Dias da Silva, um futuro desenvolvedor apaixonado por tecnologia e
 Minha base sólida está em tecnologias web essenciais, e estou sempre expandindo meu conjunto de ferramentas.
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode" /><br>
+  <img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode,react,nodejs" />
   <!-- Adicione mais ícones conforme você for aprendendo novas tecnologias! Ex: <img src="https://skillicons.dev/icons?i=react,nodejs,python" /> -->
 </div>
 
